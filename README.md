@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React Native, Node js**
 
-- 📝 I regularly write articles on [https://medium.com/@ansarali-edugaon](https://medium.com/@ansarali-edugaon)
+- 📝 I regularly write articles on [Medium](https://medium.com/@ansarali-edugaon)
 
 - 💬 Ask me about **Flutter, Dart, Android, Kotlin**
 
 - 📫 How to reach me **ansarali.edugaon@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nNo2XwsnilnCMg_uEdGiEK3TIeHktHEQ/view?usp=sharing](https://drive.google.com/file/d/1nNo2XwsnilnCMg_uEdGiEK3TIeHktHEQ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nNo2XwsnilnCMg_uEdGiEK3TIeHktHEQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
