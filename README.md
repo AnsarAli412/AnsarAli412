@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ansarali.edugaon@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nNo2XwsnilnCMg_uEdGiEK3TIeHktHEQ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XMOCS5um5ECTN3UOSmD8j75ElcKfvxub/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
